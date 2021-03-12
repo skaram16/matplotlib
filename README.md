@@ -1,6 +1,6 @@
 ## Matplotlib - The Power of Plots
 
-#### "Visual storytelling of one kind or another has been around since caveman were drawing on the walls." Frank Darabont
+#### "The goal is to turn data into information, and information into insight" Carly Fiorina
 
 ![Laboratory](Images/Laboratory.jpg)
 
